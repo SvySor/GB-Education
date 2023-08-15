@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HomeworkExceptions {
+public class HomeworkExceptions0201 {
 
     private static float inputFloat(){
         Scanner scan = new Scanner(System.in);
